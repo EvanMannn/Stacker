@@ -1,2 +1,2 @@
-# Stacker
-Calgary Hacks 2024 Game Submission
+# Stacker. A Calgary Hacks 2024 submission
+Stacker is a 3D isometric puzzle / resource managment game where you must operate a fork lift and move pallets around a warehouse to keep it clean. But watch out, pallets are coming in fast and you must use your front facing camera to quickly allign yourself, grab pallets, and get as much of the inventory on the shelves as you can, mind those fragile stickers, youu're on a time limit. Aim to get a highscore on each of the 5 levels of increasing difficulty. 
